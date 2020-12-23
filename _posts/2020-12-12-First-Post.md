@@ -7,3 +7,4 @@ This is my first time using github pages to create a blog. It will take some to 
 
 I'm hoping to use this blog to document my cybersecurity journey and the things I learn throughout! Joinme in this adventure!
 
+![Adventure](/images/adventure.jpg)
