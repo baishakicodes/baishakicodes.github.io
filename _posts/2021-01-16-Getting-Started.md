@@ -8,6 +8,7 @@ title: Resources to Get You Learning about Cybersecurity
 For beginners like me looking to get their foot into cybersecurity, a plethora of free resources exist online to help us. But where do we begin?! How do we know we're not just going in circles trying to learn things that aren't as relevant to us at this early stage of our cybersecurity journey? To solve this problem, I've listed some resources that I started out with to make sense of this complex field. Keep in mind that these are resources **I** started out with and found helpful. Others might recommend different resources.
 
 
+
 Training & Skill-building
 -------------------------
 
@@ -48,6 +49,7 @@ Reddit is a great place to find information and it's no different for cybersecur
 **2. [DFIR Diva](https://dfirdiva.com/)**
 
 DFIR Diva is an Incident Response Analyst who has a blog where she documents all the resources she uses to help her navigate the Digital Forensics and Incident Response (DFIR) subfield of cybersecurity. There are general cybersecurity/IT related resources as well as more DFIR centric resources. She also posts resources on twitter so definitely follow her in addition to checking out her site.
+
 
 
 Glad you made it to the end! I've tried to keep the list short because I know when faced with too many options, it can get overwhelming pretty quick. Definitely check out these resources and get to exploring!
