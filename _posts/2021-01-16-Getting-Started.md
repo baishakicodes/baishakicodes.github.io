@@ -18,7 +18,7 @@ Hoppers Roppers Academy is a website run by Dennis Devey. The website has variou
 
 **2. [tryhackme.com](https://tryhackme.com/)**
 
-tryhackme.com is another great resource to help you start building some skills! All content on the website are organized in "rooms." So there's a room for learning pentesting, a room for learning OSINT, a room to learn a specific tool and so on. While there are many rooms you have to pay a subscription to gain access to, there are also many free rooms that have amazing content. I espcially love the free Capture the Flag (CTF) rooms because I'm not only learning something new but I'm learning it through solving challenges. I really appreciate the hands-on aspect of tryhackme.
+tryhackme.com is another great resource to help you start building some skills! All content on the website are organized in "rooms." So there's a room for learning pentesting, a room for learning OSINT, a room to learn a specific tool and so on. While there are many rooms you have to pay a subscription to gain access to, there are also many free rooms that have amazing content. I especially love the free Capture the Flag (CTF) rooms because I'm not only learning something new but I'm learning it through solving challenges. I really appreciate the hands-on aspect of tryhackme.
 
 
 Security News
