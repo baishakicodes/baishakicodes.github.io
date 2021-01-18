@@ -20,7 +20,8 @@ Hoppers Roppers Academy is a website run by Dennis Devey. The website has variou
 tryhackme.com is another great resource to help you start building some skills! All content on the website are organized in "rooms." So there's a room for learning pentesting, a room for learning OSINT, a room to learn a specific tool and so on. While there are many rooms you have to pay a subscription to gain access to, there are also many free rooms that have amazing content. I espcially love the free Capture the Flag (CTF) rooms because I'm not only learning something new but I'm learning it through solving challenges. I really appreciate the hands-on aspect of tryhackme.
 
 
-##Security News
+Security News
+-------------
 
 **1. [Krebs on Security](https://krebsonsecurity.com/)**
 
@@ -31,12 +32,14 @@ Krebs on Security is a security news site created by Brian Krebs, an investigati
 The Hacker News is another security news site that publishes articles frequently. The articles are short and to the point. Although, for those of us just starting out, some terms and concepts might be hard to understand and it might be a little overwhelming to stay on top of each event. Nevertheless, this is a great source to stay knowledgeable about cybersecurity.
 
 
-##Conferences
+Conferences
+-----------
 
 I only have one recommendation on this section (I haven't attended many conferences): [The Diana Initiative](https://www.dianainitiative.org/). The Diana Initiative Conference is a conference focused on women, diversity, and inclusion in information security. This was my first ever conference and I'm glad it was because I met so many amazing women and learned a ton about the field. It was through this conference that I learned about different cybersecurity communities like WeAreHackerz, the Blue Team Village mentee program, and more. I attended on August of 2020 when it was virtual and free so I got lucky! :)
 
 
-##Places to Find More Resources
+Places to Find More Resources
+-----------------------------
 
 **1. [r/cybersecurity](https://www.reddit.com/r/cybersecurity/)**
 
