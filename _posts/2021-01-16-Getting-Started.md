@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jumpstarting your Career in Cybersecurity 
+title: Resources to Jumpstart your Career in Cybersecurity 
 ---
 ![Learning](/images/cybersec-finger.jpeg "Source: evansdist.com")
 
