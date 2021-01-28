@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Resources to Get You Learning about Cybersecurity 
+title: Jumpstarting your Career in Cybersecurity 
 ---
-![Learning](/images/Learning.png "Source: digitalhrtech.com")
+![Learning](/images/cybersec-finger.jpeg "Source: evansdist.com")
 
 
 For beginners like me looking to get their foot into cybersecurity, a plethora of free resources exist online to help us. But where do we begin?! How do we know we're not just going in circles trying to learn things that aren't as relevant to us at this early stage of our cybersecurity journey? To solve this problem, I've listed some resources that I started out with to make sense of this complex field. Keep in mind that these are resources **I** started out with and found helpful. Others might recommend different resources.
